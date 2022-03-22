@@ -1,0 +1,23 @@
+.product {
+    background-color: lightcyan;
+    padding: 10px 10px 30px;
+    border-radius: 10px;
+}
+.productName {
+    color: lightcoral
+}
+.addToCartButton {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+    background-color:tomato;
+    box-shadow: 1px 2px 3px saddlebrown;
+}
+.addToCartButton:active {
+    background-color:lightcoral;
+}
